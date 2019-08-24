@@ -6,4 +6,4 @@ Files and scripts and modifications I found useful for A12 ios 12.4 Jailbreak
 - find [location] -name [file name]
 
 ## Useful Notes
-- While / is read only ~ allows you to create txt files and other files. 
+- profile is located in etc/ for alias and profile settings
