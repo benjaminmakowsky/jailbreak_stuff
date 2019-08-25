@@ -1,0 +1,6 @@
+To place modded image onto iPhone XS Max use the following command
+
+scp base.png root@xxx.xxx.x.xx:/System/Library/PrivateFrameworks/SpringBoardUIServices.framework/lock@3x-896h-d33.ca/assets/
+
+To Revert use:
+scp ../lock2/base.png root@xxx.xxx.x.xx:/System/Library/PrivateFrameworks/SpringBoardUIServices.framework/lock@3x-896h-d33.ca/assets/
