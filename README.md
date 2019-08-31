@@ -12,3 +12,7 @@ Files and scripts and modifications I found useful for A12 ios 12.4 Jailbreak
 ## Icon Locations
 ### Lockscreen Lock 12.4
 - scp /System/Library/PrivateFrameworks/SpringBoardUIServices.framework/lock@3x-896h-d33.ca/assets/
+
+## Editable String Locations
+- Lockscreen Passcode/FaceID
+  - /System/Library/PrivateFrameworksSpringBoardUIServices.framework
